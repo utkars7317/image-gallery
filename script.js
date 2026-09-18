@@ -5,18 +5,18 @@
    src: "images/image1.jpg", full: "images/image1.jpg"
 ============================================ */
 const images = [
-  { src: "https://picsum.photos/seed/misty/800/600.jpg",   full: "https://picsum.photos/seed/misty/1400/1000.jpg",   title: "Misty Mountain Peaks", category: "Nature" },
-  { src: "https://picsum.photos/seed/forest/800/600.jpg",  full: "https://picsum.photos/seed/forest/1400/1000.jpg",  title: "Forest Light",         category: "Nature" },
-  { src: "https://picsum.photos/seed/cliffs/800/600.jpg",  full: "https://picsum.photos/seed/cliffs/1400/1000.jpg",  title: "Ocean Cliffs",         category: "Nature" },
-  { src: "https://picsum.photos/seed/dunes/800/600.jpg",   full: "https://picsum.photos/seed/dunes/1400/1000.jpg",   title: "Desert Dunes",         category: "Travel" },
-  { src: "https://picsum.photos/seed/aurora/800/600.jpg",  full: "https://picsum.photos/seed/aurora/1400/1000.jpg",  title: "Northern Lights",      category: "Travel" },
-  { src: "https://picsum.photos/seed/coastal/800/600.jpg", full: "https://picsum.photos/seed/coastal/1400/1000.jpg", title: "Coastal Town",         category: "Travel" },
-  { src: "https://picsum.photos/seed/stag/800/600.jpg",    full: "https://picsum.photos/seed/stag/1400/1000.jpg",    title: "Wild Stag",            category: "Animals" },
-  { src: "https://picsum.photos/seed/bird/800/600.jpg",    full: "https://picsum.photos/seed/bird/1400/1000.jpg",    title: "Bird in Flight",       category: "Animals" },
-  { src: "https://picsum.photos/seed/facade/800/600.jpg",  full: "https://picsum.photos/seed/facade/1400/1000.jpg",  title: "Modern Facade",        category: "Architecture" },
-  { src: "https://picsum.photos/seed/bridge/800/600.jpg",  full: "https://picsum.photos/seed/bridge/1400/1000.jpg",  title: "Old Bridge",           category: "Architecture" },
-  { src: "https://picsum.photos/seed/coffee/800/600.jpg",  full: "https://picsum.photos/seed/coffee/1400/1000.jpg",  title: "Morning Coffee",       category: "Lifestyle" },
-  { src: "https://picsum.photos/seed/city/800/600.jpg",    full: "https://picsum.photos/seed/city/1400/1000.jpg",    title: "City Nights",          category: "Lifestyle" },
+  { src: "./Images/nature1.jpg",   full: "./Images/nature1.jpg",   title: "Green Forest", category: "Nature" },
+  { src: "./Images/nature2.webp",  full: "./Images/nature2.webp",  title: "Forest Waterfall",         category: "Nature" },
+  { src: "./Images/nature3.webp",  full: "./Images/nature3.webp",  title: "Desert Mountains",         category: "Nature" },
+  { src: "./Images/travel1.webp",   full: "./Images/travel1.webp",   title: "Ayodhya Ram Mandir",         category: "Mandir" },
+  { src: "./Images/travel2.webp",  full: "./Images/travel2.webp",  title: "Kanchi Dham",      category: "Mandir" },
+  { src: "./Images/travel3.jpg", full: "./Images/travel3.jpg", title: "Prem Mandir",         category: "Mandir" },
+  { src: "./Images/animal1.jpg",    full: "./Images/animal1.jpg",    title: "King Of Forest",            category: "Animal" },
+  { src: "./Images/animal2.jpg",    full: "./Images/animal2.jpg",    title: "Elephant",       category: "Animal" },
+  { src: "./Images/architecture1.png",  full: "./Images/architecture1.png",  title: "ATAL SETU Bridge",        category: "Architecture" },
+  { src: "./Images/architecture2.jpg",  full: "./Images/architecture2.jpg",  title: "Chenab Bridge",           category: "Architecture" },
+  { src: "./Images/festival1.jpg",  full: "./Images/festival1.jpg",  title: "Chhath Puja",       category: "Festival" },
+  { src: "./Images/festival2.webp",    full: "./Images/festival2.webp",    title: "Holi Festival",          category: "Festival" },
 ];
 
 /* ============================================
